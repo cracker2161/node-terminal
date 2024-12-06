@@ -1,0 +1,21 @@
+{
+  "name": "node-terminal",
+  "version": "1.0.0",
+  "description": "Advanced Terminal in Replit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs-extra": "^10.1.0",
+    "readline-sync": "^1.4.10"
+  },
+  "keywords": [
+    "terminal",
+    "cli",
+    "replit"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
